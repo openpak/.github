@@ -1,0 +1,11 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Security vulnerability
+    url: https://github.com/openpak/.github/blob/main/SECURITY.md
+    about: Report security issues privately, never in a public issue.
+  - name: Is OpenPak down?
+    url: https://status.openpak.org
+    about: Check the status page before reporting an outage.
+  - name: Does my game work?
+    url: https://openpak.org/titles
+    about: The title list shows what was tested and what does not work yet.

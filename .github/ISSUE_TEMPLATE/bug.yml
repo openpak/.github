@@ -1,0 +1,32 @@
+name: Bug report
+description: Something on OpenPak doesn't work
+body:
+  - type: input
+    id: device
+    attributes:
+      label: Console or emulator
+      description: For example "Switch, firmware 23.0.1, Atmosphère 1.12.1" or "Harbor 0.5 on Linux"
+    validations:
+      required: true
+  - type: input
+    id: game
+    attributes:
+      label: Game, version and region
+      description: Leave empty if it isn't about a game.
+  - type: input
+    id: code
+    attributes:
+      label: Error code
+      description: As shown on screen, for example 2124-0041.
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened
+      description: What you did, what you expected, and what happened instead.
+    validations:
+      required: true
+  - type: textarea
+    id: logs
+    attributes:
+      label: Logs or screenshots
+      description: Never attach game files, firmware, keys or console dumps.
