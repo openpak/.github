@@ -26,7 +26,7 @@ screenshots are welcome.
 4. Write commit messages in the imperative, describing what changed and why.
 
 Each repository is independent and has its own README, `CHANGELOG.md` and build steps. The
-shared conventions and playbooks are in [`docs`](https://github.com/openpak/docs).
+shared conventions and playbooks are on [docs.openpak.org](https://docs.openpak.org) (source: [`docs`](https://github.com/openpak/docs)).
 
 ### Clean room
 

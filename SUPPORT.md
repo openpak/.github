@@ -1,6 +1,6 @@
 # Getting help
 
-- **Setting up a console or emulator:** start at [openpak.org/downloads](https://openpak.org/downloads).
+- **Setting up a console or emulator:** follow the guides on [docs.openpak.org](https://docs.openpak.org), and get the downloads at [openpak.org/downloads](https://openpak.org/downloads).
 - **Is it down?** Check [status.openpak.org](https://status.openpak.org).
 - **Does my game work?** See [openpak.org/titles](https://openpak.org/titles).
 - **Account, console link or something broken:** sign in and use [Help](https://openpak.org/help),

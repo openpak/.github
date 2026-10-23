@@ -8,7 +8,7 @@ services that let those consoles and their games go online again: accounts, frie
 matchmaking, cloud saves, news and shops. You keep the real console firmware and the real games.
 Only the network side is replaced.
 
-[openpak.org](https://openpak.org) · [Status](https://status.openpak.org) ·
+[openpak.org](https://openpak.org) · [Docs](https://docs.openpak.org) · [Status](https://status.openpak.org) ·
 [Titles](https://openpak.org/titles) · [Features](https://openpak.org/features) ·
 [Downloads](https://openpak.org/downloads)
 
@@ -73,7 +73,7 @@ Good places to start:
 - [`nx-baas`](https://github.com/openpak/nx-baas): the Switch adapter (BAAS, Nintendo Account, eShop front).
 - [`nex`](https://github.com/openpak/nex): the shared NEX/PRUDP game-server host for Wii U, 3DS and Switch titles.
 - [`app`](https://github.com/openpak/app): the companion app for Android and iOS (account, friends, presence, invitations).
-- [`docs`](https://github.com/openpak/docs): how the network is designed, and the shared playbooks.
+- [`docs`](https://github.com/openpak/docs): the source of [docs.openpak.org](https://docs.openpak.org), for players, contributors and self-hosters.
 
 ## Standing on shoulders
 
