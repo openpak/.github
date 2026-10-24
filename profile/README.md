@@ -20,11 +20,12 @@ Only the network side is replaced.
 
 | Platform | State | What you need |
 | --- | --- | --- |
-| Nintendo Switch | Working: accounts, console link, friends, Nintendo Switch Online, avatars. Presence, invitations, matchmaking and cloud saves are partial | A console with Atmosphère and [OpenPak Setup](https://github.com/openpak/openpak-nro/releases/latest), or the Harbor emulator |
-| Wii U and 3DS | Beta: accounts, friends, NAT check. Miiverse, SpotPass and eShop are alpha | [Inkay](https://github.com/openpak/nn-inkay) (Wii U, Aroma) or [nimbus](https://github.com/openpak/nn-nimbus) (3DS, Luma) |
-| Wii and DS | Beta: Nintendo Wi-Fi Connection | The [Wii patcher](https://github.com/openpak/nn-wfc-patcher-wii) or [DS patcher](https://github.com/openpak/nn-wfc-patcher-ds) |
-| Xbox, Xbox 360 | In development | Not ready for players yet |
-| PlayStation 3 | In development | Not ready for players yet |
+| Nintendo Switch | Working: accounts, console link, friends, Nintendo Switch Online, avatars. Presence, invitations, matchmaking and cloud saves are partial | A console with Atmosphère and [OpenPak Switch Patcher](https://github.com/openpak/switch-patcher/releases/latest), or the Harbor emulator |
+| Wii U and 3DS | Beta: accounts, friends, NAT check. Miiverse, SpotPass and eShop are alpha | [OpenPak Wii U Patcher](https://github.com/openpak/wiiu-patcher) (Aroma) or [OpenPak 3DS Patcher](https://github.com/openpak/3ds-patcher) (Luma) |
+| Wii and DS | Beta: Nintendo Wi-Fi Connection | The [OpenPak Wii Patcher](https://github.com/openpak/wii-patcher) or [OpenPak DS Patcher](https://github.com/openpak/ds-patcher) |
+| Xbox | In development | [OpenPak Xbox Patcher](https://github.com/openpak/xbox-patcher), not available yet |
+| Xbox 360 | In development | [OpenPak Xbox 360 Patcher](https://github.com/openpak/x360-patcher), not available yet |
+| PlayStation 3 | In development | [OpenPak PS3 Patcher](https://github.com/openpak/ps3-patcher), not available yet |
 | PSP, PS2, Vita, later consoles | Planned | |
 
 Per-game status is on [openpak.org/titles](https://openpak.org/titles). Each game shows what
