@@ -6,6 +6,7 @@
 - **Account, console link or something broken:** sign in and use [Help](https://openpak.org/help),
   or open an issue in the repository for that service ([CONTRIBUTING](CONTRIBUTING.md) explains
   what to include).
+- **Quick questions and community help:** [Discord](https://discord.gg/nMhjnsB6F6).
 - **Anything else:** [contact@openpak.org](mailto:contact@openpak.org).
 
 OpenPak is a volunteer project in public alpha. Answers may take a few days.

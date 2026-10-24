@@ -10,7 +10,8 @@ Only the network side is replaced.
 
 [openpak.org](https://openpak.org) · [Docs](https://docs.openpak.org) · [Status](https://status.openpak.org) ·
 [Titles](https://openpak.org/titles) · [Features](https://openpak.org/features) ·
-[Downloads](https://openpak.org/downloads)
+[Downloads](https://openpak.org/downloads) ·
+[Discord](https://discord.gg/nMhjnsB6F6)
 
 > [!WARNING]
 > OpenPak is in **public alpha**. Things will break. Accounts, saves and links may be reset
@@ -95,6 +96,7 @@ upstream emulator projects listed above. Forked code keeps its original licence 
 - Report a bug or a game that doesn't work: open an issue in the repository for that service, or use [Help](https://openpak.org/help) once you are signed in.
 - Contribute: read [CONTRIBUTING](https://github.com/openpak/.github/blob/main/CONTRIBUTING.md).
 - Security issues: read [SECURITY](https://github.com/openpak/.github/blob/main/SECURITY.md) and report them privately, never in a public issue.
+- Chat with the community and the developers on [Discord](https://discord.gg/nMhjnsB6F6).
 - Contact: [contact@openpak.org](mailto:contact@openpak.org)
 
 <sub>OpenPak is an independent community project. It is not affiliated with, endorsed by or

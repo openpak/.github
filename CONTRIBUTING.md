@@ -18,6 +18,8 @@ reports and test results from real consoles and games.
 Never attach game files, firmware, keys, `prod.keys`, PRODINFO or console dumps. Logs and
 screenshots are welcome.
 
+Questions before you start? Ask on [Discord](https://discord.gg/nMhjnsB6F6).
+
 ## Contributing code
 
 1. Open an issue first for anything bigger than a small fix, so we can agree on the approach.
