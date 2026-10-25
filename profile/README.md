@@ -13,6 +13,8 @@ Only the network side is replaced.
 [Downloads](https://openpak.org/downloads) ·
 [Discord](https://discord.gg/nMhjnsB6F6)
 
+**New here? Read [how OpenPak fits together](https://github.com/openpak/.github/blob/main/profile/ARCHITECTURE.md).**
+
 > [!WARNING]
 > OpenPak is in **public alpha**. Things will break. Accounts, saves and links may be reset
 > without notice, and there is no uptime promise. Please report what you find.
