@@ -1,0 +1,23 @@
+name: dedup-lint
+
+# Reusable. A console adapter calls this from its own repo:
+#   jobs: { lint: { uses: openpak/.github/.github/workflows/dedup-lint.yml@main } }
+# It fails when the repo adds a table or column that stores a player's name, display name, nickname, email, country,
+# birthday, language, timezone or Mii as a first source, unless .dedup-allow in the repo names it with a reason.
+# Board card openpak/prds#131 (phase 10). The checker is scripts/dedup-lint.py in this repo.
+on:
+  workflow_call:
+
+permissions:
+  contents: read
+
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/checkout@v5
+        with:
+          repository: openpak/.github
+          path: .dedup-tools
+      - run: python3 -I .dedup-tools/scripts/dedup-lint.py .
